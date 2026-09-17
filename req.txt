@@ -33,3 +33,6 @@ youtube_transcripted_api
 pymupdf
 langchain-community
 streamlit
+langchain_classic
+StreamlitCallbackHandler
+langchain_ollama
