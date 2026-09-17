@@ -32,3 +32,4 @@ torchvision
 youtube_transcripted_api
 pymupdf
 langchain-community
+streamlit
