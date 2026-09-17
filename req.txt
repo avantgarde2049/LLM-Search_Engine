@@ -31,3 +31,4 @@ validators==0.28.1
 torchvision
 youtube_transcripted_api
 pymupdf
+langchain-community
